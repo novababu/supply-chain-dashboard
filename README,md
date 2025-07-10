@@ -1,0 +1,12 @@
+# Supply Chain Dashboard (Streamlit)
+
+An interactive dashboard for visualizing supply chain performance using Streamlit.
+
+## Features
+- Inventory analysis
+- Order fulfillment tracking
+- Supplier performance insights
+- Transportation efficiency
+- Cost distribution
+
+## How to Run
